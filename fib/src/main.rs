@@ -3,6 +3,7 @@ fn main() {
 
     let n = 20;
     println!("Fibonacci {n}: {}", fib(n));
+    todo!("Work on data structures in Rust");
 }
 
 fn interproduct(a:i32, b:i32, c:i32) -> i32 {
